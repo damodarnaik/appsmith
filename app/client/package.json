@@ -65,7 +65,7 @@
     "instantsearch.css": "^7.4.2",
     "interweave": "^12.7.2",
     "interweave-autolink": "^4.4.2",
-    "js-beautify": "^1.14.0",
+    "js-beautify": "^1.14.10",
     "js-sha256": "^0.9.0",
     "jshint": "^2.13.4",
     "klona": "^2.0.5",
